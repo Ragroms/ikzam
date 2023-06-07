@@ -1,0 +1,15 @@
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\bin\Debug\net6.0\Задание 6.exe
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\bin\Debug\net6.0\Задание 6.deps.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\bin\Debug\net6.0\Задание 6.runtimeconfig.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\bin\Debug\net6.0\Задание 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\bin\Debug\net6.0\Задание 6.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\refint\Задание 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\Задание 6.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Задания на экзамен(практика)\Задание 6\obj\Debug\net6.0\ref\Задание 6.dll
