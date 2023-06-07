@@ -1,0 +1,39 @@
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.exe
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.deps.json
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.json
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.dev.json
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.dll
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.pdb
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.csprojAssemblyReference.cache
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfoInputs.cache
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfo.cs
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.dll
+D:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.pdb
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.csproj.AssemblyReference.cache
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.GeneratedMSBuildEditorConfig.editorconfig
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfoInputs.cache
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfo.cs
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.csproj.CoreCompileInputs.cache
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.dll
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.pdb
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.exe
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.deps.json
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.json
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.dev.json
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.dll
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\bin\Debug\netcoreapp3.0\ПР13.pdb
+E:\ТО ЧТО НУЖНО СДАТЬ\Программирование\ПР13\obj\Debug\netcoreapp3.0\ПР13.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.exe
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.deps.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.runtimeconfig.dev.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\bin\Debug\netcoreapp3.0\ПР13.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР13\ПР13_1\obj\Debug\netcoreapp3.0\ПР13.genruntimeconfig.cache
