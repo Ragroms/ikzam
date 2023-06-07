@@ -1,0 +1,30 @@
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.exe
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.deps.json
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.runtimeconfig.json
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.dll
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.pdb
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.csproj.AssemblyReference.cache
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.AssemblyInfoInputs.cache
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.AssemblyInfo.cs
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.csproj.CoreCompileInputs.cache
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.dll
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\refint\ПР12_1.dll
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.pdb
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.genruntimeconfig.cache
+C:\Users\olegs\Desktop\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ref\ПР12_1.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.exe
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.deps.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.runtimeconfig.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\bin\Debug\net6.0\ПР12_1.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\refint\ПР12_1.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ПР12_1.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\программы практик\ПР12\ПР12_1\obj\Debug\net6.0\ref\ПР12_1.dll
